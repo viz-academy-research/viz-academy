@@ -7,7 +7,3 @@ To read, please go ahead and jump into [Introduction](Introduction.md) or procee
 ---
 
 *Viz Academy is a research project! And the 'right answer' will be constantly changing. If you have a case study or a story you are willing to share, head to [this page](Contribute%20your%20story%20or%20research.md) or [get in touch](mailto:contact@viz.academy) and add to this knowledge base.*
-
-*We are currently based in the UK and use British spelling for the most part, i.e. 'previsualisation'. However, 'previz' is such established Hollywood jargon that sometimes it simply must be used with the 'zee'. 'Vis Academy' just didn't have the right ring to it!*
-
-*Prefer to read a PDF? Download [here](Viz%20Academy%20-%201st%20Edition.pdf).*

@@ -25,3 +25,5 @@ Navigate using the article headers, or start here at the first chapter of our Ov
 *We are currently based in the UK and use British spelling for the most part, i.e. 'previsualisation'. However, 'previz' is such established Hollywood jargon that sometimes it simply must be used with the 'zee'. 'Vis Academy' just didn't have the right ring to it!*
 
 *Prefer to read a PDF? Download [here](Viz%20Academy%20-%201st%20Edition.pdf).*
+
+*Original written material from this project is under Creative Commons **CC BY-NC-SA 4.0.** GitHub repo [here](https://github.com/viz-academy-research/viz-academy)*.
