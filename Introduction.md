@@ -12,20 +12,22 @@ We will detail the existing use of previs technology in our industry, with ample
 The aim of this study is to provide theatre professionals with a broad context of where we are, with the hope to encourage ideals of **best practice** moving forward, to maximise this new potential in tech, in the interest of creative teams and of excellence in storytelling.
 
 ## Welcome to Spatial Previsualisation.
-![[spacer2.jpg]]
+![[va/images/spacer2.jpg]]
 #### *Navigating the site*
 You can explore these articles in order, or explore what is most relevant to you. The deeper articles serve as a practical guide for integration of Production Visualisation in to your production. 
 
-Navigate using the article headers, or start here at the first chapter of our Overview: [[1. The Theatre Industry and Technology]].
+Navigate using the article headers, or start here at the first chapter of our Overview: [[va/Section 1 - Overview/1. The Theatre Industry and Technology]].
 
 ---
 
-*Viz Academy is a research project! And the 'right answer' will be constantly changing. If you have a case study or a story you are willing to share, head to [this page](Contribute%20your%20story%20or%20research.md) or [get in touch](mailto:contact@viz.academy) and add to this knowledge base.*
+*Viz Academy is a research project! And the 'right answer' will be constantly changing. If you have a case study or a story you are willing to share, head to [this page](va/Contribute%20your%20story%20or%20research.md) or [get in touch](mailto:contact@viz.academy) and add to this knowledge base.*
 
 *We are currently based in the UK and use British spelling for the most part, i.e. 'previsualisation'. However, 'previz' is such established Hollywood jargon that sometimes it simply must be used with the 'zee'. 'Vis Academy' just didn't have the right ring to it!*
 
-*Prefer to read a PDF? Download [here](Viz%20Academy%20-%201st%20Edition.pdf).*
+*Prefer to read a PDF? Download [here](va/ref/Viz%20Academy%20-%201st%20Edition.pdf).*
 
 *Original written material from this project is under Creative Commons **CC BY-NC-SA 4.0.** GitHub repo [here](https://github.com/viz-academy-research/viz-academy)*.
 
 Ask questions of the knowledgebase via DeepWiki [here]([https://deepwiki.com/viz-academy-research/viz-academy](https://deepwiki.com/viz-academy-research/viz-academy)).
+
+*This research was made possible by the **Royal Shakespeare Company (RSC)**, which provided the author with exclusive access to conduct this independent study. Special thanks to Jamie Wright, Julia Walter, Sarah Ellis, and Tamara Harvey for their support.*
