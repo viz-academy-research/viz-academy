@@ -2,7 +2,7 @@ Welcome to Viz Academy.
 
 This repo mirrors the site https://viz.academy/ , which runs on the Obsidian Publish platform. Throughout, the content uses wikilinks and md link syntax. 
 
-To read, please go ahead and jump into [Introduction](Introduction.md) or proceed to our first chronological article: [1. The Theatre Industry and Technology.md](Section%201%20-%20Overview/1.%20The%20Theatre%20Industry%20and%20Technology.md)
+To read, please go ahead and jump into [Introduction](va/Introduction.md) or proceed to our first chronological article: [1. The Theatre Industry and Technology.md](1.%20The%20Theatre%20Industry%20and%20Technology.md)
 
 ---
 

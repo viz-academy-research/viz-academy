@@ -27,3 +27,5 @@ Navigate using the article headers, or start here at the first chapter of our Ov
 *Prefer to read a PDF? Download [here](Viz%20Academy%20-%201st%20Edition.pdf).*
 
 *Original written material from this project is under Creative Commons **CC BY-NC-SA 4.0.** GitHub repo [here](https://github.com/viz-academy-research/viz-academy)*.
+
+Ask questions of the knowledgebase via DeepWiki [here]([https://deepwiki.com/viz-academy-research/viz-academy](https://deepwiki.com/viz-academy-research/viz-academy)).

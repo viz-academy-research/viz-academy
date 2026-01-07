@@ -1,6 +1,5 @@
 # Ignore everything in ref folder
 ref/*
 
-# But keep these specific PDFs
+# But keep this specific PDF
 !ref/Viz Academy - 1st Edition.pdf
-!ref/OptimisingVisPractices-Metcalfe.pdf
